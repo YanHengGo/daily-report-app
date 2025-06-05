@@ -17,7 +17,7 @@ export default function LoginPage() {
 
     try {
       await signInWithEmailAndPassword(auth, email, password);
-      router.push('/'); // ログイン成功後のリダイレクト先
+      router.push('/dashboard'); // ログイン成功後のリダイレクト先
     } catch (err: any) {
       setError(err.message);
     }
