@@ -21,7 +21,7 @@ https://daily-report-app-psi.vercel.app
 
 - [Next.js](https://nextjs.org/) (App Router / TypeScript)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Firebase](https://firebase.google.com/)（Auth / Firestore）
+- [Firebase](https://console.firebase.google.com/u/0/)（Auth / Firestore）
 - [Vercel](https://vercel.com/)（自動デプロイ）
 
 ## 🧪 ローカル開発環境のセットアップ
